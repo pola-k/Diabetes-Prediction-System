@@ -5,6 +5,7 @@ This project implements a comprehensive machine learning system for diabetes pre
 
 ## Dataset
 Link to Dataset: https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset/data
+
 The dataset (`diabetes_prediction_dataset.csv`) contains 100,000 medical records with the following features:
 - `gender`: Patient's gender (Male, Female, Other)
 - `age`: Patient's age
